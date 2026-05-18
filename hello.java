@@ -10,6 +10,6 @@ public class hello {
 
         int sum = a + b;
 
-        System.out.println("Sum = " + sum);
+        System.out.println("total sum is : " + sum);
     }
 }
